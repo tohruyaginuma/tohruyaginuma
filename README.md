@@ -52,14 +52,13 @@
 <tbody>
     <tr>
     <td><strong>Portfolio Site</strong></td>
-    <td><a href="https://tohruyaginuma.com"><strong>tohruyaginuma.com</strong></a></td>
-    <td><a href=" https://github.com/toru45s/portfolio"><strong>toru45s/portfolio</strong></a>
-    </td>
+    <td><a href="https://tohruyaginuma.com" target="_blank"><strong>tohruyaginuma.com</strong></a></td>
+    <td><a href="https://github.com/toru45s/portfolio" target="_blank"><strong>toru45s/portfolio</strong></a></td>
     </tr>
     <tr>
     <td><strong>Inventry Application</strong></td>
-    <td><a href="https://inventory-application-ashy.vercel.app/"><strong>inventory-application-ashy.vercel.app</strong></a></td>
-    <td><a href="https://github.com/toru45s/Inventory-Application"><strong>toru45s/Inventory-Application</strong></a></td>
+    <td><a href="https://inventory-application-ashy.vercel.app/" target="_blank"><strong>inventory-application-ashy.vercel.app</strong></a></td>
+    <td><a href="https://github.com/toru45s/Inventory-Application" target="_blank"><strong>toru45s/Inventory-Application</strong></a></td>
     </tr>
 </tbody>
 </table>
