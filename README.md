@@ -1,9 +1,24 @@
-<p align="center">
- <h1 align="center">Nice to meet you 🍀</h1>
- <strong>I'm a self-driven senior front-end developer with 5+ years experience</strong>
-</p>
+ <h1 align="center">Hi there! I'm Tohru🍀</h1>
+ <p>Nice to meet you✨ My name is Tohru  (pronounced like “toe-roo”). </p>
+ <p>I'm a <strong>Frontend Software Developer</strong> with 5+ years experience. Currently based in <strong>Vancouver, Canada</strong>  🇨🇦. Originally from <strong>Tokyo, Japan </strong> 🇯🇵.</p>
+ <p>I'm passionate about making <strong>Transparent user experiences</strong> that means the user experience giving focus achieving their goals without an awareness of application 😎.</p>
 
-<h2>💪 Skills</h2>
+<h3>🙋🏻‍♂️ About Me</h3>
+<ul>
+<li> 💬 Ask me about <strong>HTML, CSS, JavaScript, React, TypeScript</strong></li>
+<li> 🔭 I’m currently working on <a href="https://www.helatris.com/" target="_blank"><strong>Helatris</strong></a> as <strong>Fullstack Software Developer</strong></li>
+<li> 🌱 I’m currently learning database and backend design with <strong>Django, Python</strong></li>
+<li> ⚡ Fun fact: I'm a independent music scene enthusiast and former <a href="https://soundcloud.com/yagi6919" target="_blank"><strong>Music composer.</strong></a></li>
+</ul>
+
+<h3> 📫 Let’s Connect</h3>
+<ul>
+<li> 💼 <a href="https://www.linkedin.com/in/tohru-yaginuma-8124a8277/" target="_blank"><strong>LinkedIn</strong></a></li>
+<li> 📬 <a href="tohruyaginuma.com" target="_blank"><strong>Portfolio Site</strong></a></li>
+<li> ✉️ <a href="mailto:me@tohruyaginuma.com"><strong>me@tohruyaginuma.com</strong></a></li>
+</ul>
+
+<h2>💪 Languages and tools: </h2>
 <a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
@@ -23,28 +38,27 @@
 <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon web services" width="40" height="40"></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"></a>
 
-<h2>🤖 How my code is like</h2>
-<ul>
-<li> Portfolio Site: <a href="https://github.com/toru45s/portfolio">https://github.com/toru45s/portfolio</a></li>
-<li> Inventory Application: <a href="https://github.com/toru45s/Inventory-Application">https://github.com/toru45s/Inventory-Application</a></li>
-</ul>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=toru45s&show_icons=true&locale=en&layout=compact" alt="skills" />
 
-<h2>🙋🏻‍♂️ About Me</h2>
-<ul>
-<li> Originally from Japan 🇯🇵, currently based in <strong>Vancouver, Canada</strong> 🇨🇦</li>
-<li> Passionate about making <strong>Transparent user experiences</strong> 📝 that means the user experience giving focus achieving their goals without an awareness of application😎</li>
-<!-- ß -->
-<!-- <li>🌱 I’m currently learning ...</li>
-<li>👯 I’m looking to collaborate on ...</li>
-<li>🤔 I’m looking for help with ...</li>
-<li>💬 Ask me about ...</li>
-<li>📫 How to reach me: ...</li>
-<li>📫 How to reach me: ...</li> -->
-</ul>
-
-<h2> 📫 Let’s Connect</h2>
-<ul>
-<li> 💼 LinkedIn: <a href="https://www.linkedin.com/in/tohru-yaginuma-8124a8277/" target="_blank">https://www.linkedin.com/in/tohru-yaginuma-8124a8277/</a></li>
-<li> 🧪 Email: <a href="mailto:me@tohruyaginuma.com">me@tohruyaginuma.com</a></li>
-<li> 📬 Portfolio Site: <a href="https://portfolio-yaginuma.netlify.app/" target="_blank">https://portfolio-yaginuma.netlify.app/</a></li>
-</ul>
+<h2>🤔 How my code is like: </h2>
+<table>
+<thead>
+    <tr>
+    <th>Name </th>
+    <th>Application</th>
+    <th>Github Repository</th>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+    <td><strong>Portfolio Site</strong></td>
+    <td><a href="https://tohruyaginuma.com"><strong>tohruyaginuma.com</strong></a></td>
+    <td><a href=" https://github.com/toru45s/portfolio"><strong> toru45s/portfolio</strong></a>r</td>
+    </tr>
+    <tr>
+    <td><strong>Inventry Application</strong></td>
+    <td><a href="https://inventory-application-ashy.vercel.app/"><strong>inventory-application-ashy.vercel.app</strong></a></td>
+    <td><a href="https://github.com/toru45s/Inventory-Application"><strong>toru45s/Inventory-Application</strong></a></td>
+    </tr>
+</tbody>
+</table>
