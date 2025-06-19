@@ -53,7 +53,8 @@
     <tr>
     <td><strong>Portfolio Site</strong></td>
     <td><a href="https://tohruyaginuma.com"><strong>tohruyaginuma.com</strong></a></td>
-    <td><a href=" https://github.com/toru45s/portfolio"><strong> toru45s/portfolio</strong></a>r</td>
+    <td><a href=" https://github.com/toru45s/portfolio"><strong>toru45s/portfolio</strong></a>
+    </td>
     </tr>
     <tr>
     <td><strong>Inventry Application</strong></td>
