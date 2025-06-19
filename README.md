@@ -1,13 +1,9 @@
 <p align="center">
- <h1 align="center">Nice to meet you!<br/> My name is Tohru Yaginuma 🍀</h1>
- <h3 align="center">I'm a self-driven senior front-end developer from Japan 🇯🇵</h3>
+ <h1 align="center">Nice to meet you 🍀</h1>
+ <strong>I'm a self-driven senior front-end developer with 5+ years experience</strong>
 </p>
-<ul>
-<li> Originally Currently based in <strong>Vancouver, Canada</strong> 🇨🇦</li>
-<li> Passionate about making <strong>Transparent user experiences</strong> 📝 that means the user experience giving focus achieving their goals without an awareness of application😎</li>
-</ul>
 
-<h2>🛠️ Tech Stack</h2>
+<h2>💪 Skills</h2>
 <a href="https://html.spec.whatwg.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a>
@@ -27,28 +23,28 @@
 <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon web services" width="40" height="40"></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"></a>
 
-<!-- ## 🛠️ What is my codes like?
+<h2>🤖 How my code is like</h2>
+<ul>
+<li> Portfolio Site: <a href="https://github.com/toru45s/portfolio">https://github.com/toru45s/portfolio</a></li>
+<li> Inventory Application: <a href="https://github.com/toru45s/Inventory-Application">https://github.com/toru45s/Inventory-Application</a></li>
+</ul>
 
-- Portfolio
-- Inventory Management App
+<h2>🙋🏻‍♂️ About Me</h2>
+<ul>
+<li> Originally from Japan 🇯🇵, currently based in <strong>Vancouver, Canada</strong> 🇨🇦</li>
+<li> Passionate about making <strong>Transparent user experiences</strong> 📝 that means the user experience giving focus achieving their goals without an awareness of application😎</li>
+<!-- ß -->
+<!-- <li>🌱 I’m currently learning ...</li>
+<li>👯 I’m looking to collaborate on ...</li>
+<li>🤔 I’m looking for help with ...</li>
+<li>💬 Ask me about ...</li>
+<li>📫 How to reach me: ...</li>
+<li>📫 How to reach me: ...</li> -->
+</ul>
 
-## 💬 About Me
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: linkedin.com/in/toruyaginuma
-- 🧪 Portfolio: Coming soon!
-- 📬 Email: toru45s@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toru45s)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Tohru's GitHub stats](https://github-readme-stats.vercel.app/api?username=toru45s)](https://github.com/anuraghazra/github-readme-stats) -->
+<h2> 📫 Let’s Connect</h2>
+<ul>
+<li> 💼 LinkedIn: <a href="https://www.linkedin.com/in/tohru-yaginuma-8124a8277/" target="_blank">https://www.linkedin.com/in/tohru-yaginuma-8124a8277/</a></li>
+<li> 🧪 Email: <a href="mailto:me@tohruyaginuma.com">me@tohruyaginuma.com</a></li>
+<li> 📬 Portfolio Site: <a href="https://portfolio-yaginuma.netlify.app/" target="_blank">https://portfolio-yaginuma.netlify.app/</a></li>
+</ul>
