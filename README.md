@@ -1,14 +1,13 @@
  <h1 align="center">Hi there! I'm Tohru🍀</h1>
- <p>Nice to meet you✨ My name is Tohru  (pronounced like “toe-roo”). </p>
- <p>I'm a <strong>Frontend Software Developer</strong> with 5+ years experience. Currently based in <strong>Vancouver, Canada</strong>  🇨🇦. Originally from <strong>Tokyo, Japan </strong> 🇯🇵.</p>
- <p>I'm passionate about making <strong>Transparent user experiences</strong> that means the user experience giving focus achieving their goals without an awareness of application 😎.</p>
+ <p>Nice to meet you! My name is Tohru. </p>
+ <p>I'm a <strong>Frontend Software Developer</strong> with 5+ years of experience, currently based in <strong>Vancouver, Canada</strong>. 🇨🇦 Originally from <strong>Tokyo, Japan </strong> 🇯🇵.</p>
+ <p>I’m passionate about creating <strong>transparent user experiences</strong> that means designing interfaces that help users achieve their goals seamlessly, without even being aware of the application. 😎</p>
 
 <h3>🙋🏻‍♂️ About Me</h3>
 <ul>
 <li> 💬 Ask me about <strong>HTML, CSS, JavaScript, React, TypeScript</strong></li>
-<li> 🔭 I’m currently working on <a href="https://www.helatris.com/" target="_blank"><strong>Helatris</strong></a> as <strong>Fullstack Software Developer</strong></li>
 <li> 🌱 I’m currently learning database and backend design with <strong>Django, Python</strong></li>
-<li> ⚡ Fun fact: I'm a independent music scene enthusiast and former <a href="https://soundcloud.com/yagi6919" target="_blank"><strong>Music composer.</strong></a></li>
+<li> ⚡ Fun fact: I’m an independent music scene enthusiast and a former <a href="https://soundcloud.com/yagi6919" target="_blank"><strong>music composer</strong></a>.</li>
 </ul>
 
 <h3> 📫 Let’s Connect</h3>
@@ -40,7 +39,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toru45s&show_icons=true&locale=en&layout=compact" alt="skills" />
 
-<h2>🤔 How my code is like: </h2>
+<h2>🤔 What my code looks like: </h2>
 <table>
 <thead>
     <tr>
