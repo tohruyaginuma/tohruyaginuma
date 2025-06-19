@@ -13,7 +13,7 @@
 <h3> 📫 Let’s Connect</h3>
 <ul>
 <li> 💼 <a href="https://www.linkedin.com/in/tohru-yaginuma-8124a8277/" target="_blank"><strong>LinkedIn</strong></a></li>
-<li> 📬 <a href="tohruyaginuma.com" target="_blank"><strong>Portfolio Site</strong></a></li>
+<li> 📬 <a href="https://tohruyaginuma.com" target="_blank"><strong>Portfolio Site</strong></a></li>
 <li> ✉️ <a href="mailto:me@tohruyaginuma.com"><strong>me@tohruyaginuma.com</strong></a></li>
 </ul>
 
@@ -29,7 +29,7 @@
 <a href="https://sass-lang.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a>
 <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"></a>
 <a href="https://storybook.js.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/storybook/storybook-original.svg" alt="StoryBook" width="40" height="40"></a>
-<a href=""><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"></a>
+<a href="https://jestjs.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"></a>
 <a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/django/django-plain.svg" alt="Django" width="40" height="40"></a>
 <a href="https://www.django-rest-framework.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/djangorest/djangorest-original.svg" alt="Django REST Framework" width="40" height="40"></a>
 <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"></a>
