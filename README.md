@@ -1,7 +1,7 @@
  <h1 align="center">Hi there! I'm Tohru 🍀</h1>
  <p>Nice to meet you! My name is Tohru. </p>
- <p>I'm a <strong>Frontend Software Developer</strong> with 5+ years of experience, currently based in <strong>Vancouver, Canada</strong>. 🇨🇦 Originally from <strong>Tokyo, Japan </strong> 🇯🇵.</p>
- <p>I’m passionate about creating <strong>transparent user experiences</strong> that means designing interfaces that help users achieve their goals seamlessly, without even being aware of the application. 😎</p>
+ <p>I'm a <strong>Frontend Software Developer</strong> with 5+ years of experience, based in <strong>Vancouver, Canada</strong>. 🇨🇦 Originally from <strong>Tokyo, Japan </strong> 🇯🇵.</p>
+ <p>I’m passionate about creating <strong>Transparent User Experiences</strong> that means designing interfaces that help users achieve their goals seamlessly, without even being aware of the application. 😎</p>
 
 <h3>🙋🏻‍♂️ About Me</h3>
 <ul>
