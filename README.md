@@ -39,7 +39,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toru45s&show_icons=true&locale=en&layout=compact" alt="skills" />
 
-<h2>🤔 What my code looks like: </h2>
+<h2>⚡️ What my code looks like: </h2>
 <table>
 <thead>
     <tr>
