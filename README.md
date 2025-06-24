@@ -7,7 +7,7 @@
 <ul>
 <li> 💬 Ask me about <strong>HTML, CSS, JavaScript, React, TypeScript</strong></li>
 <li> 🌱 I’m currently learning database and backend design with <strong>Django, Python</strong></li>
-<li> ⚡ Fun fact: I’m an independent music scene enthusiast and a former <a href="https://soundcloud.com/yagi6919" target="_blank"><strong>music composer</strong></a>.</li>
+<li> ⚡ Fun fact: I’m an independent music scene enthusiast and a former music composer.</li>
 </ul>
 
 <h3> 📫 Let’s Connect</h3>
