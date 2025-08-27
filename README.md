@@ -40,7 +40,7 @@
 <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Amazon web services" width="40" height="40"></a>
 <a href="https://developer.hashicorp.com/terraform"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=toru45s&show_icons=true&locale=en&layout=compact" alt="skills" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tohruyaginuma&show_icons=true&locale=en&layout=compact" alt="skills" />
 
 <h2>🧩 What my code looks like: </h2>
 <h3>🗣️ Subtitles - Live Transcription Application</h3>
