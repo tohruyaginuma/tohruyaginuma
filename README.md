@@ -6,8 +6,8 @@
 <h3>🙋🏻‍♂️ About Me</h3>
 <ul>
 <li> 💻 Ask me about <strong>HTML, CSS, JavaScript, React, TypeScript</strong></li>
-<li> 👨‍💼 Former team lead on SaaS product development</strong></li>
-<li> 🌐 2+ years SRE experience with a CCNA/CCNP networking background</strong></li>
+<li> 👨‍💼 Former <strong>team lead</strong> on SaaS product development</strong></li>
+<li> 🌐 <strong>2+ years SRE experience</strong> with a CCNA/CCNP networking background</strong></li>
 <li> 🌱 I’m currently learning database and backend design with <strong>Django, Python</strong></li>
 <li> ⚡ Fun fact: I’m an independent music scene enthusiast and a former music composer</li>
 </ul>
