@@ -43,6 +43,14 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=toru45s&show_icons=true&locale=en&layout=compact" alt="skills" />
 
 <h2>🧩 What my code looks like: </h2>
+<h3>🗣️ Subtitles - Live Transcription Application</h3>
+<ul>
+ <li><a href="https://subtitles-frontend-production.up.railway.app/" target="_blank"><strong>🌐 Live App</strong></a></li>
+ <li><a href="https://github.com/tohruyaginuma/subtitles-frontend" target="_blank"><strong>💻 Frontend Code</strong></a></li>
+ <li><a href="https://github.com/tohruyaginuma/subtitles-backend" target="_blank"><strong>⚙️ Backend Code</strong></a></li>
+</ul>
+
+<h3>👨‍💻 Other Projects</h3>
 <table>
 <thead>
     <tr>
