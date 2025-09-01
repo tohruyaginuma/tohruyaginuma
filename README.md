@@ -44,7 +44,7 @@
 
 <h2>🧩 What my code looks like: </h2>
 <h3>🗣️ Subtitles - Live Transcription Application</h3>
-<a href="https://subtitles-frontend-production.up.railway.app/"　target="_blank"><img src="https://github.com/tohruyaginuma/subtitles-backend/blob/main/docs/images/og.png?raw=true" alt="Subtitles" width="1200" height="630"></a>
+<a href="https://subtitles-frontend-production.up.railway.app/"　target="_blank"><img src="https://github.com/tohruyaginuma/subtitles-backend/blob/main/docs/images/og.png?raw=true" alt="Subtitles" width="600" height="315"></a>
 <ul>
  <li><a href="https://subtitles-frontend-production.up.railway.app/" target="_blank"><strong>🌐 Live App</strong></a></li>
  <li><a href="https://github.com/tohruyaginuma/subtitles-frontend" target="_blank"><strong>💻 Frontend Code</strong></a></li>
