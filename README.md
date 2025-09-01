@@ -45,6 +45,23 @@
 <h2>🧩 What my code looks like: </h2>
 <h3>🗣️ Subtitles - Live Transcription Application</h3>
 <a href="https://subtitles-frontend-production.up.railway.app/"　target="_blank"><img src="https://github.com/tohruyaginuma/subtitles-backend/blob/main/docs/images/og.png?raw=true" alt="Subtitles" width="600" height="315"></a>
+<p>A simple, conference-oriented platform for live English transcription and note-taking. Built with Next.js 15 (App Router, Route Handlers), Django, Django Rest Framework, PostgreSQL, Zustand, Shadcn, and Railway.</p>
+<p>Motivated by the need for lightweight tools during tech conferences, I created this app to capture live speech and keep organized notes without the complexity of traditional note-taking apps.</p>
+
+<h4>Features</h4>
+<ul>
+	<li>Real-time English speech transcription (via WebSockets, powered by Django Channels)</li>
+	<li>User authentication (sign up, login, logout)</li>
+	<li>Save, view, edit, and delete transcription history with titles</li>
+</ul>
+
+<h4>Implementation notes</h4>
+<ul>
+	<li>Live transcription uses WebSockets with Django Channels for low-latency streaming</li>
+	<li>Authentication handled by Next.js Route Handlers for improved security</li>
+</ul>
+
+<h4>Links</h4>
 <ul>
  <li><a href="https://subtitles-frontend-production.up.railway.app/" target="_blank"><strong>🌐 Live App</strong></a></li>
  <li><a href="https://github.com/tohruyaginuma/subtitles-frontend" target="_blank"><strong>💻 Frontend Code</strong></a></li>
