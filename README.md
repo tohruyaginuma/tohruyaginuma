@@ -15,7 +15,6 @@
 <h3> 📫 Let’s Connect</h3>
 <ul>
 <li> 💼 <a href="https://www.linkedin.com/in/tohru-yaginuma-8124a8277/" target="_blank"><strong>LinkedIn</strong></a></li>
-<li> 🌍 <a href="https://www.upwork.com/freelancers/tohruyaginuma" target="_blank"><strong>UpWork</strong></a></li>
 <li> 📬 <a href="https://tohruyaginuma.com" target="_blank"><strong>Portfolio Site</strong></a></li>
 <li> ✉️ <a href="mailto:me@tohruyaginuma.com"><strong>me@tohruyaginuma.com</strong></a></li>
 </ul>
