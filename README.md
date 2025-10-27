@@ -81,7 +81,7 @@
     <tr>
     <td><strong>Portfolio Site</strong></td>
     <td><a href="https://tohruyaginuma.com" target="_blank"><strong>tohruyaginuma.com</strong></a></td>
-    <td><a href="https://github.com/toru45s/portfolio" target="_blank"><strong>toru45s/portfolio</strong></a></td>
+    <td><a href="https://github.com/tohruyaginuma/portfolio" target="_blank"><strong>tohruyaginuma/portfolio</strong></a></td>
     <td>
     <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24"></a>
     <a href="https://astro.build/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" alt="Astro" width="24" height="24"></a>
@@ -91,7 +91,7 @@
     <tr>
     <td><strong>Inventry Application</strong></td>
     <td><a href="https://inventory-application-ashy.vercel.app/" target="_blank"><strong>inventory-application-ashy.vercel.app</strong></a></td>
-    <td><a href="https://github.com/toru45s/Inventory-Application" target="_blank"><strong>toru45s/Inventory-Application</strong></a></td>
+    <td><a href="https://github.com/tohruyaginuma/Inventory-Application" target="_blank"><strong>tohruyaginuma/Inventory-Application</strong></a></td>
     <td>
     <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="TypeScript" width="24" height="24"></a>
     <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nextjs/nextjs-original.svg" alt="Next.js" width="24" height="24"></a>
